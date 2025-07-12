@@ -48,7 +48,7 @@ git clone https://github.com/prasadchodagiri7989/ajackus-assignment.git
 2. **Navigate to project folder**
 
 ```bash
-cd employee-directory
+cd ajackus-assignment
 ```
 
 3. **Compile and Run**
